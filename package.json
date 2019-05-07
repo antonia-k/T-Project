@@ -1,0 +1,26 @@
+{
+  "name": "t-project-project",
+  "version": "1.0.0",
+  "description": "T-project",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonia-k/T-Project.git"
+  },
+  "author": "Antonia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antonia-k/T-Project/issues"
+  },
+  "homepage": "https://github.com/antonia-k/T-Project#readme",
+  "dependencies": {
+    "mysql": "^2.17.1"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "T-project"
+  ]
+}
