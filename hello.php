@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "a1i2n3o4t5n6a";
+$password = "";
 $dbname = "trolltweets";
 
 // Create connection
